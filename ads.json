@@ -1,0 +1,45 @@
+{
+  "AdsData": {
+      "Setting_Ads": 
+      {
+        //FATAL, Jangan menghapus baris pada bagian SETTING DEFAULT
+        //SETTING DEFAULT
+        "Play_Store": "https://play.google.com/store/apps/developer?id=Niantic,+Inc.", 
+
+        "BannerAd": "admob",
+        "InterstitialAd": "admob",
+        "NativeAd": "admob",
+		"Interval_Interstitial": 3,
+    
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        //LIST UNIT ADMOB PER APLIKASI by Package Name
+        //Berikan 4 Unit ID (banner, interstitial, native & openappad) setiap aplikasi agar aplikasi tidak muncul error saat digunakan
+        //Perhatikan tanda koma dengan seksama setiap menambah baris agar remote json dapat terkoneksi dengan aplikasi
+
+        "BannerAdmob_com.packagename": "ca-app-pub-3940256099942544/6300978111", // <---CONTOH DENGAN UNIT TEST ID
+        "BannerAdmob_com.surgana.mediaplayer": "ca-app-pub-3940256099942544/6300978111", // <---CONTOH DENGAN UNIT TEST ID
+        "BannerAdmob_com.fullhdbokehvideoplayer.b3": "ca-app-pub-3940256099942544/6300978111",
+		
+        "OpenAppAdmob_com.packagename": "ca-app-pub-3940256099942544/3419835294", // <---CONTOH DENGAN UNIT TEST ID
+        "OpenAppAdmob_com.surgana.mediaplayer": "ca-app-pub-3940256099942544/3419835294", // <---CONTOH DENGAN UNIT TEST ID
+		"OpenAppAdmob_com.fullhdbokehvideoplayer.b3": "ca-app-pub-3940256099942544/3419835294",
+
+        "InterstitialAdmob_com.packagename": "ca-app-pub-3940256099942544/1033173712", // <---CONTOH DENGAN UNIT TEST ID
+        "InterstitialAdmob_com.surgana.mediaplayer": "ca-app-pub-3940256099942544/1033173712", // <---CONTOH DENGAN UNIT TEST ID
+		"InterstitialAdmob_com.fullhdbokehvideoplayer.b3": "ca-app-pub-3940256099942544/1033173712", 
+		
+        "NativeAdmob_com.packagename": "ca-app-pub-3940256099942544/2247696110", // <---CONTOH DENGAN UNIT TEST ID
+        "NativeAdmob_com.surgana.mediaplayer": "ca-app-pub-3940256099942544/2247696110", // <---CONTOH DENGAN UNIT TEST ID
+		"NativeAdmob_com.fullhdbokehvideoplayer.b3": "ca-app-pub-3940256099942544/2247696110",
+		
+        // SETTING DEFAULT
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+      }
+
+  }
+}
