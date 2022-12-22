@@ -22,7 +22,9 @@
         "BannerAdmob_com.packagename": "ca-app-pub-3940256099942544/6300978111", // <---CONTOH DENGAN UNIT TEST ID
         "BannerAdmob_com.surgana.mediaplayer": "ca-app-pub-3940256099942544/6300978111", // <---CONTOH DENGAN UNIT TEST ID
         "BannerAdmob_com.fullhdbokehvideoplayer.b3": "ca-app-pub-3940256099942544/6300978111",
-	"BannerAdmob_com.surgana.mediaplayer1": "ca-app-pub-3940256099942544/6300978111",
+	
+	      "BannerAdmob_com.surgana.mediaplayer1": "ca-app-pub-3940256099942544/6300978111",
+	     
 		
         "OpenAppAdmob_com.packagename": "ca-app-pub-3940256099942544/3419835294", // <---CONTOH DENGAN UNIT TEST ID
         "OpenAppAdmob_com.surgana.mediaplayer": "ca-app-pub-3940256099942544/3419835294", // <---CONTOH DENGAN UNIT TEST ID
